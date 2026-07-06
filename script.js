@@ -1,11 +1,3 @@
-/* =====================================================================
-   YOUR BUSINESS NAME — SCRIPT.JS
-   Vanilla JavaScript only. No frameworks, no build tools.
-   Handles: page loader, scroll progress bar, sticky navbar shadow,
-   mobile menu toggle, smooth scrolling, scroll-triggered fade-ins,
-   back-to-top button, and the footer year.
-   ===================================================================== */
-
 document.addEventListener('DOMContentLoaded', () => {
 
   /* -------------------------------------------------------------------
